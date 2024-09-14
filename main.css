@@ -1,0 +1,26 @@
+.changingButtons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:10px;
+}
+
+.changingButtons Button{
+    padding: 15px 15px;
+    font-size: 35px;
+}
+
+.info{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-size: 20px;
+}
+
+.larger{
+    font-size: 40px;
+}
+
+.smaller{
+    font-size: 10px;
+}
